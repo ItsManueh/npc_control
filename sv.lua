@@ -1,0 +1,1 @@
+print("^4NPC ^0Control enabled")
