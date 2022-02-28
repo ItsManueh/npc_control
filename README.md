@@ -13,16 +13,16 @@ Go to [Release](https://github.com/overextended/oxmysql/releases)
 
 Deprecated using mysql-async
 ```
-Citizen.CreateThread(function() or
+Citizen.CreateThread(function()
 
-		Citizen.Wait(0)
+	Citizen.Wait(0)
 ```
 
 New Variable using Oxmysql
 ```
-CreateThread(function() or
+CreateThread(function()
 
-		Wait(0)
+	Wait(0)
 ```
 
 # Installation
