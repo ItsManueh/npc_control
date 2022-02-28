@@ -4,11 +4,26 @@ Simple FiveM Script for Reduced NPCs or Delete all NPCs and NPC AntiDrop Weapons
 
 # Description
 
+Control totally NPCs density and Enable or Disable Dispatch
+
 ⚠️ Use Oxmysql for running this script
 
 Go to [Release](https://github.com/overextended/oxmysql/releases)
 
-Control totally NPCs density and Enable or Disable Dispatch
+
+Deprecated using mysql-async
+```
+Citizen.CreateThread(function() or
+
+		Citizen.Wait(0)
+```
+
+New Variable using Oxmysql
+```
+CreateThread(function() or
+
+		Wait(0)
+```
 
 # Installation
 
@@ -26,4 +41,4 @@ This program Is free software: you can redistribute it And/Or modify it under th
 
 This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.
 
-You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/.
+You should have received a copy Of the GNU General Public License along with this program. If Not, see http://www.gnu.org/licenses/
