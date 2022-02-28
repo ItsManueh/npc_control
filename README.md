@@ -2,9 +2,9 @@
 
 Simple FiveM Script for Reduced NPCs or Delete all NPCs and NPC AntiDrop Weapons
 
-# Description
-
 Control totally NPCs density and Enable or Disable Dispatch
+
+# Description
 
 ⚠️ Use Oxmysql for running this script
 
