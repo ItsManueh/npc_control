@@ -6,25 +6,6 @@ Control totally NPCs density and Enable or Disable Dispatch
 
 # Description
 
-⚠️ Use Oxmysql for running this script
-
-Go to [Release](https://github.com/overextended/oxmysql/releases)
-
-
-Deprecated using mysql-async
-```
-Citizen.CreateThread(function()
-
-	Citizen.Wait(0)
-```
-
-New Variable using Oxmysql
-```
-CreateThread(function()
-
-	Wait(0)
-```
-
 # Installation
 
 Default density value is 0.3, you can change it by editing the variable 0.3 for by the number you want up to 1.0
