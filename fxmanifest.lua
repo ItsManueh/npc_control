@@ -1,15 +1,14 @@
 --#### FX Information ####--
-fx_version   'adamant'
+fx_version   'cerulean'
 use_fxv2_oal 'yes'
 lua54        'yes'
 game         'gta5'
 
 --#### Resource Information ####--
-name         'ReducedNPC'
-Author       'ItsManueh'
-version      '1.0'
-description  'Powered by Uranium'
+name         'NPC Reduced Control'
+version      '1.2'
+description  'Powered by O:SX Studios'
 
-client_script 'cl.lua'
+client_script 'client/cl.lua'
 
-server_script 'sv.lua'
+server_script 'server/sv.lua'
